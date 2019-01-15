@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../A_GeneralOverview/CDH2_Display.html'],s:['+','from','setzt'],p:[['+',4],['at',16],['currently',0],['enumeration',30],['in',8],['minim',12],['phase',30],['sit',9],['top',5]]});
